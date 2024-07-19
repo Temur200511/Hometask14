@@ -1,0 +1,76 @@
+h1{
+    font-size: 60px;
+
+}
+div{
+    color: white;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    position:fixed;
+    padding-top: 200px ;
+    right: 60%;
+   height: 100vh;
+   width: 40%;
+   background-color: blue;
+}
+.container{
+    position: relative;
+    background-color: skyblue;
+    width: 60%;
+    height: 100vh;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    left: 40%;
+}
+
+.container_in{
+    position:absolute ;
+   padding-left: 70px;
+   padding-right: 70px;
+   left: 18%;
+  margin-bottom:  100px;
+   height: 50vh;
+   width: 40%;
+background-color: white;
+}
+p{
+    font-size: large;
+    color: black;
+}
+#email{
+    margin-bottom: 4px;
+}
+#log
+{
+    border: 1px solid;
+    padding: 7px 70px ;
+    background-color: cyan;
+    margin-right: 70px;
+}
+
+ul{
+    padding-right: 55px;
+    gap: 10px;
+    
+}
+
+#sign{
+
+}
+
+
+
+#reset{
+
+}
+
+h2{
+    gap: 15px;
+    justify-content: space-between;
+    justify-content: space-between;
+    list-style: none;
+    text-decoration: none;
+}
